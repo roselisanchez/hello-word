@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Repository test
 
 Oie! Sou a Roseli, desenheira, bailarina, designer, e agora estudo tecnologia...
